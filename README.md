@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-REST_API-black?logo=flask&logoColor=white)
-![Organization](https://img.shields.io/badge/Organization-DevHubX_ORG-orange)
+![Website](https://img.shields.io/badge/Organization-DevHubX_ORG-orange)
 ![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen)
 
 A fast, lightweight REST API built with Python and Flask by **DevHubX ORG** that fetches comprehensive domain intelligence. It combines traditional **Port 43 WHOIS** lookups, modern **IANA RDAP (Registration Data Access Protocol)** data, and **IPv4 DNS resolution** into a single unified JSON response without requiring third-party API keys.
