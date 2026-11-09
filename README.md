@@ -37,7 +37,7 @@ A fast, lightweight REST API built with Python and Flask by **DevHubX ORG** that
 
 ```bash
 git clone [https://github.com/mominur-in/whois.git](https://github.com/mominur-in/whois.git)
-cd your-repo-name
+cd whois
 ```
 
 ### 2. Create a Virtual Environment
